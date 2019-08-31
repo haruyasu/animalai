@@ -1,0 +1,10 @@
+.vscode
+boar
+crow
+monkey
+__pycache__
+.ipynb_checkpoints
+uploads
+*.npy
+*.h5
+
